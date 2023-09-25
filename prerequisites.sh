@@ -83,6 +83,7 @@ Get-AzPublicIpAddress -ResourceGroupName $vm.ResourceGroupName | Remove-AzPublic
 
 .\myScript.ps1
 
+
 #TODO title
 # =====================================================================================================================
 
